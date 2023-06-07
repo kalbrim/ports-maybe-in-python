@@ -24,6 +24,7 @@ while True:
             print("correct")
         else:
             print("wrong")
+            print(port)
 
     else:
         exit()
